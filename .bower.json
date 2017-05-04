@@ -1,0 +1,14 @@
+{
+  "name": "phaser-plugin-isometric",
+  "homepage": "https://github.com/jimanx2/phaser-plugin-isometric",
+  "_release": "2df75a85fe",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "2df75a85fee94d9186fab463aec701323f04db91"
+  },
+  "_source": "https://github.com/jimanx2/phaser-plugin-isometric.git",
+  "_target": "*",
+  "_originalSource": "jimanx2/phaser-plugin-isometric",
+  "_direct": true
+}

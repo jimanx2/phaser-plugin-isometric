@@ -1,0 +1,29 @@
+{
+  "name": "phaser-plugin-isometric",
+  "homepage": "https://github.com/lewster32/phaser-plugin-isometric",
+  "_release": "2df75a85fe",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "2df75a85fee94d9186fab463aec701323f04db91"
+  },
+  "_source": "https://github.com/lewster32/phaser-plugin-isometric.git",
+  "_target": "*",
+  "_originalSource": "lewster32/phaser-plugin-isometric",
+  "_direct": true,
+  "authors": [
+    "Lewis Lane <septimus@rotates.org>"
+  ],
+  "description": "",
+  "main": "dist/phaser-plugin-isometric.js",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/bower_components",
+    "test",
+    "tests"
+  ]
+}
